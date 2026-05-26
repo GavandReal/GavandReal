@@ -1,4 +1,4 @@
-# Hey, I'm Shay 👋
+# Hey, I'm Shay 😉
 
 I'm an Applied Mathematics & AI student from Israel.
 
