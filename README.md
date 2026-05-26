@@ -27,7 +27,7 @@ Currently at the start of my journey, constantly learning, building, and improvi
 
 ---
 
-## 🌍 Fun Facts
+## Fun Facts
 - I enjoy traveling and exploring beautiful places
 - Friendly and always open to learning new things
 - Hobbies: gym, basketball, surfing, listening to music
