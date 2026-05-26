@@ -1,4 +1,4 @@
-<img width="1593" height="990" alt="image" src="https://github.com/user-attachments/assets/edf46603-2d43-4a51-b025-e470ef64d125" /># Hey, I'm Shay 👋
+# Hey, I'm Shay 👋
 
 I'm an Applied Mathematics & AI student from Israel.
 
